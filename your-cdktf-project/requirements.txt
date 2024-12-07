@@ -1,0 +1,3 @@
+cdktf==0.20.10
+cdktf-cdktf-provider-aws==18.0.0
+constructs>=10.0.0,<11.0.0
